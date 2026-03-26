@@ -1,3 +1,4 @@
+package ParcelShippingSystem;
 class Parcel{
 	private String trackingId;
 	private double weightKg;
